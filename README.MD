@@ -1,0 +1,1 @@
+# eks cluster conf for apache airflow
